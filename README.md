@@ -1,2 +1,2 @@
 # bepi-s-fart
-smelly
+bepi is a stinky fart
