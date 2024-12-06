@@ -89,12 +89,7 @@ html {
   font-style: italic;
 }
 
-/* space grotesk font classes */
-// <uniquifier>: Use a unique and descriptive class name
-
-.space-grotesk-<uniquifier> {
-  font-family: "Space Grotesk", sans-serif;
-  font-optical-sizing: auto;
-  font-weight: 400;
-  font-style: normal;
+/* font setup for elements */
+h1 {
+  font-family: "Chakra Petch", "Arial", sans-serif;
 }
